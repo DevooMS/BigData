@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4eeaaafa-ae87-4fdd-8700-9286e2a292bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/MapReduce_Exercises.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E25 - TODO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/MapReduce/sol/E29-TODO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/Spark_Exercises.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/Dataset/E50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E43 - TODO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E45 - TODO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkRDD/sol/RDD/E46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkStreaming/SparkStreaming_Exercise.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkStreaming/sol/E51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkStreaming/sol/E52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Esercize/exercises/SparkStreaming/sol/E53.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2XLyjLV2zWPMAQSQZXVboO1IkCO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eeaaafa-ae87-4fdd-8700-9286e2a292bb" name="Changes" comment="" />
+      <created>1698422789106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698422789106</updated>
+      <workItem from="1698422790272" duration="930000" />
+      <workItem from="1698425214926" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

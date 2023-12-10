@@ -22,7 +22,7 @@ class ReducerBigData extends Reducer<
         Text key, // Input key type
         Iterable<IntWritable> values, // Input value type
         Context context) throws IOException, InterruptedException {
-            System.out.println("Reducer: " + key.toString()); //SERV0
+            System.out.println("Reducer: " + key.toString()); //SERV01
 		/* Implement the reduce method */ 
     	
     }
